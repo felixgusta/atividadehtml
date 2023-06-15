@@ -1,0 +1,17 @@
+body{
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+    background-color: aliceblue;
+    
+}
+form input {
+    color:rgb(0, 0, 0);
+}
+
+form div {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
